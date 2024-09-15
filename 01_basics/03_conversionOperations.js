@@ -28,4 +28,10 @@ console.log(convertIntoBoolean);
 
 
 
+let a = ((3+4) *5%3)
+console.log(a);
+
+
+
+
 
